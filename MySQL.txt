@@ -1,0 +1,20 @@
+## Education Table
+## 
+CREATE DATABASE EDUCATION;
+CREATE TABLE Student (
+    StudentId INT(11),
+    Name VARCHAR (250),
+    Course VARCHAR(11),
+    Institution VARCHAR(11),
+
+);
+
+INSERT INTO Student
+            (StudentId, Name, Course, Institution) VALUES
+            ('32849179', 'FranklineKip', 'Electrical Engineering', 'KU');
+
+## MySQL queries (To query the No. of Students per Course);
+
+
+
+SELECT NUMBER OF STUDENTS AS COURSE NAME from student;
