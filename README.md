@@ -1,2 +1,2 @@
 ##  MySQL
-* Query t display values in a table
+* Query to display selected values from a table
